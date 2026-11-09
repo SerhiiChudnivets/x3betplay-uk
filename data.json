@@ -172,7 +172,7 @@
   "footer_text": "© 2026. X3Bet Casino. All rights reserved",
   "popup_text": "Bonus  200% Up to £1,200 + 250 FS",
   "faq_title": "FAQ",
-  "login_text": "Log In",
+  "login_text": "Login",
   "register_text": "Register",
   "slots_title": "Best Online at X3Bet Casino",
   "bonus_title": "X3Bet: Welcome Package, Weekly Bonus",
@@ -340,8 +340,8 @@
       "question": "How do I complete my account registration at X3Bet Casino?"
     }
   ],
-  "_generated_at": "2026-11-09T12:18:18.031Z",
+  "_generated_at": "2026-11-09T12:22:18.093Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-09T12:18:18.618Z",
-  "_deploy_trigger": "zi4i8w"
+  "_last_deploy": "2026-11-09T12:22:18.705Z",
+  "_deploy_trigger": "6vl0pq"
 }
