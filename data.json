@@ -25,7 +25,7 @@
       "heroBadge": "X3Bet Casino: Sign Up Now",
       "ctaText": "Claim",
       "tagline": " 200% Up to £1,200 + 250 Free Spins",
-      "heroImage": "",
+      "heroImage": "/uploads/x3bet-casino.webp",
       "template": "homepage",
       "isHomepage": false,
       "order": 0,
@@ -106,6 +106,7 @@
       "popup_logo": "/uploads/x3bet-logo.webp",
       "hero_title": "X3Bet Casino",
       "hero_subtitle": "Welcome Bonus",
+      "hero_image": "/uploads/x3bet-casino.webp",
       "seo_title": "X3Bet Casino: Claim Bonus 200% Up to £1,200 + 250 FS",
       "seo_description": "Explore top slots, table games, alongside fast payout options. Claim your exclusive X3Bet Bonus today and experience seamless mobile gaming wherever you go!",
       "html_head": "<link rel=\"canonical\" href=\"https://x3betplay.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://x3betplay.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://x3betplay.uk/en-gb/\" hreflang=\"en-GB\">\n<link rel=\"alternate\" href=\"https://x3betplay.uk/\" hreflang=\"x-default\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"X3Bet Casino: Claim Bonus 200% Up to £1,200 + 250 FS\">\n<meta property=\"og:description\" content=\"Explore top slots, table games, and live dealer titles, alongside fast payout options. Claim your exclusive X3Bet Bonus package today and experience seamless mobile gaming wherever you go!\">\n<meta property=\"og:url\" content=\"https://x3betplay.uk/en-gb/\">\n<meta property=\"og:site_name\" content= \"X3Bet Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"X3Bet Casino: Claim Bonus 200% Up to £1,200 + 250 FS\">\n<meta name=\"twitter:description\" content=\"Explore top slots, table games, and live dealer titles, alongside fast payout options. Claim your exclusive X3Bet Bonus package today and experience seamless mobile gaming wherever you go!\">",
@@ -194,7 +195,9 @@
   "popup_logo": {
     "url": "/uploads/x3bet-logo.webp"
   },
-  "main_background_img": null,
+  "main_background_img": {
+    "url": "/uploads/x3bet-casino.webp"
+  },
   "header_menu": [
     {
       "link": "/play/",
@@ -337,8 +340,8 @@
       "question": "How do I complete my account registration at X3Bet Casino?"
     }
   ],
-  "_generated_at": "2026-11-09T11:44:11.877Z",
+  "_generated_at": "2026-11-09T12:18:18.031Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-09T11:44:12.582Z",
-  "_deploy_trigger": "wlwsze"
+  "_last_deploy": "2026-11-09T12:18:18.618Z",
+  "_deploy_trigger": "zi4i8w"
 }
